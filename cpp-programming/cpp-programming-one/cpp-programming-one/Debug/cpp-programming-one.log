@@ -1,0 +1,14 @@
+﻿生成启动时间为 2022/5/2 20:07:31。
+     1>项目“C:\Users\x\Desktop\window\C++\code\cpp-programming-one\cpp-programming-one\cpp-programming-one.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\xytfOfApp\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CalculateString.cpp
+         CalculateString.cpp
+       Link:
+         D:\xytfOfApp\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\x\Desktop\window\C++\code\cpp-programming-one\Debug\cpp-programming-one.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\x\Desktop\window\C++\code\cpp-programming-one\Debug\cpp-programming-one.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\x\Desktop\window\C++\code\cpp-programming-one\Debug\cpp-programming-one.lib" /MACHINE:X86 Debug\CalculateString.obj
+         Debug\StringArray.obj
+         cpp-programming-one.vcxproj -> C:\Users\x\Desktop\window\C++\code\cpp-programming-one\Debug\cpp-programming-one.exe
+     1>已完成生成项目“C:\Users\x\Desktop\window\C++\code\cpp-programming-one\cpp-programming-one\cpp-programming-one.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.52
